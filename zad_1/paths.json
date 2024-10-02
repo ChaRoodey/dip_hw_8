@@ -1,0 +1,14 @@
+[
+    {
+        "type": "file",
+        "name": "products.csv",
+        "root_dir": "zad_3",
+        "size": 79
+    },
+    {
+        "type": "file",
+        "name": "products.json",
+        "root_dir": "zad_3",
+        "size": 281
+    }
+]
